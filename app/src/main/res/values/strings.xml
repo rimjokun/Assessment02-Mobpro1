@@ -1,3 +1,30 @@
 <resources>
-    <string name="app_name">Assessment02</string>
+    <string name="app_name">Remember Me</string>
+    <string name="list_kosong">Belum ada data</string>
+    <string name="x_diklik">%1$s diklik!</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="tambah_error">Belum bisa tambah catatan.</string>
+    <string name="judul_tugas">Judul Tugas</string>
+    <string name="deskripsi_tugas">Deskripsi Tugas</string>
+    <string name="deadline_tugas">Deadline Tugas</string>
+    <string name="kelas">Kelas Mahasiswa</string>
+    <string name="kewirausahaan">Kewirausahaan</string>
+    <string name="multer">MulTer</string>
+    <string name="pancasila">Pancasila</string>
+    <string name="mobpro">MobPro</string>
+    <string name="ppap">PPAP</string>
+    <string name="pengprof">PengProf</string>
+    <string name="pt2">PT2</string>
+    <string name="vvpl">VVPL</string>
+    <string name="kembali">Kembali</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_data">Ubah Data</string>
+    <string name="invalid">data tidak boleh kosong</string>
+    <string name="hapus">Hapus Data</string>
+    <string name="opsi_lainnya">Opsi Lainnya</string>
+    <string name="pesan_hapus">Hapus Data Tugas Ini?</string>
+    <string name="tombol_hapus">Hapus</string>
+    <string name="tombol_batal">Batal</string>
+    <string name="list">Tampilan List</string>
+    <string name="grid">Tampilan Grid</string>
 </resources>
